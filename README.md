@@ -1,4 +1,4 @@
-# Finger-Count
+# 🖐 Finger-Count
 
 Count how many fingers you are holding up using AI *(For a bigger project)*
 
